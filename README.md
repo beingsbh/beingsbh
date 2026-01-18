@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Subhankar🌻</h1>
 <h3 align="center">Java & Flutter Developer | MCA Student</h3>
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"/>
+<img align="right" alt="Coding" width="230" src="https://cdn.dribbble.com/userupload/21606445/file/original-87f89c32747bd361f530e0735083d18d.gif"/>
 
 ### 👨‍💻 About Me
 
