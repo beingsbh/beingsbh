@@ -49,13 +49,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingsbh&show_icons=true&theme=default" width="48%"/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beingsbh" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingsbh&layout=compact"/>
-</p>
 
 ---
 
